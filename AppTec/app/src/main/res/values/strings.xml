@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppTec</string>
+    <string name="tituloImc">Cálculo do IMC</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="btnCalcular">Calcular</string>
+
+    <string name="pesoAbaixo">Você está abaixo do peso ideal, com IMC entre 17 e 18,4 kg/m2</string>
+    <string name="pesoAbaixoLaudo">Pode causar fadiga, stress, ansiedade</string>
+
+    <string name="pesoNormal">Você está com o peso ideal, com IMC entre 18,5 e 24,9 kg/m²</string>
+    <string name="pesoNormalLaudo">Menor risco de doenças cardíacas e vasculares</string>
+
+    <string name="pesoAcima">Você está acima do peso ideal, com IMC entre 25 e 29,9 kg/m2</string>
+    <string name="pesoAcimaLaudo">Pode causar fadiga, má circulação, varizes</string>
+
+    <string name="obesGrauI">Você está no nível I da obesidade, com IMC entre 30 e 34,9 kg/m²</string>
+    <string name="obesGrauILaudo">Pode causar diabetes, angina, infarto, aterosclerose</string>
+
+    <string name="obesGrauII">Você está no nível II da obesidade, com IMC entre 35 e 40 kg/m²</string>
+    <string name="obesGrauIILaudo">Pode causar apnéia do sono, falta de ar</string>
+
+    <string name="obesGrauIII">Você está no nível III da obesidade, com IMC igual ou maior que maior que 40 kg/m²</string>
+    <string name="obesGrauIIILaudo">Pode causar refluxo, dificuldade para se mover, escaras, diabetes, infarto, AVC</string>
+
+    <string name="radioSexo">Selecione o sexo: </string>
+
+</resources>
